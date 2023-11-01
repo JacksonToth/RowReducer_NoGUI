@@ -1,2 +1,2 @@
 # RowReducer_NoGUI
-Simple coding project in cpp for row reducing matrices
+Simple coding project in C++ for row reducing matrices
